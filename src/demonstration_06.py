@@ -51,3 +51,18 @@ print(XO("xooxx"))
 print(XO("ooxXm"))
 print(XO("zpzpzpp"))
 print(XO("zzoo"))
+
+#Practice
+
+# def XO(txt)
+
+# x = 0
+# o = 0
+
+# for letter in txt.toLowerCase()
+#     if letter == 'x':
+#         x += 1
+#     elif letter == 'o':
+#         o += 1
+
+# return x == o
