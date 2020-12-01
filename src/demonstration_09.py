@@ -27,3 +27,10 @@ def mapping(letters):
         d[letter] = letter.upper()
 ​
     return d
+
+    # def mapping(letters)
+
+    # d = {}
+
+    # for letter in letters:
+    #     d[letter] = letter.upper()
